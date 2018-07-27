@@ -2,7 +2,7 @@ This was created to test creating npm packages. You can use it anyways :)
 
 ## Usage
 
-`
+```
 import { methods, properties } from 'get-methods'
 
 methods('string');
@@ -54,4 +54,4 @@ methods('string');
 'toLocaleUpperCase',
 'trimStart',
 'trimEnd' ][ '0', '1', '2', '3', '4', '5', 'length' ]
-`
+```
