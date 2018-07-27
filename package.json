@@ -1,6 +1,6 @@
 {
 	"name": "get-methods",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "simple methods and properties lister of things",
 	"main": "index.js",
 	"scripts": {

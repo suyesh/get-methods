@@ -5,7 +5,8 @@ This was created to test creating npm packages. You can use it anyways :)
 ```
 import { methods, properties } from 'get-methods'
 
-methods('string');
+console.log(methods('string'));
+console.log(properties('string'));
 
 [ 'length',
 'constructor',
