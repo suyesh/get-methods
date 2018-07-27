@@ -1,5 +1,5 @@
 {
-	"name": "getmethods",
+	"name": "get-methods",
 	"version": "0.0.1",
 	"description": "simple methods and properties lister of things",
 	"main": "index.js",
@@ -11,7 +11,7 @@
 		"url": "git+https://github.com/suyesh/get-methods.git"
 	},
 	"keywords": ["'javascript-methods'", "js-properties'", "'js-functions'"],
-	"author": "Suyesh Bhandari",
+	"author": "Suyesh Bhandari <suyeshb@gmail.com>",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/suyesh/get-methods/issues"
