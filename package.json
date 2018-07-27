@@ -1,0 +1,20 @@
+{
+	"name": "getmethods",
+	"version": "0.0.1",
+	"description": "simple methods and properties lister of things",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/suyesh/get-methods.git"
+	},
+	"keywords": ["'javascript-methods'", "js-properties'", "'js-functions'"],
+	"author": "Suyesh Bhandari",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/suyesh/get-methods/issues"
+	},
+	"homepage": "https://github.com/suyesh/get-methods#readme"
+}
